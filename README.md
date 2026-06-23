@@ -1,8 +1,7 @@
 # Academic Advisor — Multi-Agent System
 
 A small **orchestrator + specialist agents** system that answers student questions
-from five SRH documents. No frontend — it runs in the terminal. Retrieval is
-**BM25** (keyword search), so it works fully offline with no model downloads.
+from five SRH documents. 
 
 ## What it does
 An **orchestrator** reads your question, decides the intent, and routes it to one
