@@ -1,4 +1,4 @@
-# Academic Advisor — Multi-Agent System (terminal)
+# Academic Advisor — Multi-Agent System
 
 A small **orchestrator + specialist agents** system that answers student questions
 from five SRH documents. No frontend — it runs in the terminal. Retrieval is
