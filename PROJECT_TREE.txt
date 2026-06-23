@@ -1,0 +1,21 @@
+academic_advisor/
+├── README.md
+├── requirements.txt
+├── main.py
+├── data/  (module_handbook, study_regulations, internship_process, internship_faqs, academic_calendar).pdf
+└── advisor/
+    ├── __init__.py
+    ├── config.py
+    ├── document_store.py
+    ├── tools.py
+    ├── llm.py
+    ├── orchestrator.py
+    └── agents/
+        ├── __init__.py
+        ├── base.py
+        ├── module_agent.py
+        ├── regulations_agent.py
+        ├── internship_agent.py
+        ├── electives_agent.py
+        ├── summary_agent.py
+        └── general_agent.py
